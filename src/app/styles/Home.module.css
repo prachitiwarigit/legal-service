@@ -1,0 +1,24 @@
+.consult {
+    display: flex;
+    align-items: center;
+    background-color: #EFBB03;
+    padding: 4px;
+    color: #000;
+    cursor: pointer;
+    border-radius: 2px;
+    gap: 0.5rem; /* Adjust gap between text and arrow */
+  }
+  
+  .arrow {
+    font-size: 1.2rem; /* Adjust size of the arrow */
+  }
+
+  .mainitems {
+    display: flex;
+    text-align: center;
+  }
+  .arrowitems {
+    font-size: 40px;
+   margin-top: -5px;
+  }
+  
