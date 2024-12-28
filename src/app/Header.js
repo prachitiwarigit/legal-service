@@ -8,7 +8,7 @@ export default function Header() {
     <header className="bg-blue-900 text-white p-4">
       <div className="container flex items-center justify-between">
         {/* Logo Section */}
-        <img src="/images/lo.svg" alt="Logo" className="h-10" />
+        <img src="/images/lo.svg" alt="Logo" />
 
         {/* Navigation Items */}
         <div className="hidden md:flex items-center gap-6">
